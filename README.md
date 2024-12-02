@@ -45,8 +45,8 @@ Feel free to reach out at taraneh.m5257@gmail.com
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=simamojtahedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simamojtahedi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=web-dev1992&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=web-dev1992&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -56,6 +56,6 @@ Feel free to reach out at taraneh.m5257@gmail.com
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/sima-mojtahedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:siramojtahedi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/taraneh-mohebi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:taraneh.m5257@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
